@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gerhard_Mauerberger
-- 👀 I’m interested in XAMARIN and Speech Recognition
-- 🌱 I’m currently learning Microsoft Graph
+- 👀 I’m interested in NET MAUI and Speech Recognition
+- 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Gerhard.Mauerberger@t-online.de
 
