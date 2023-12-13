@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gerhard_Mauerberger
 - 👀 I’m interested in NET MAUI and Speech Recognition
-- 🌱 I’m currently learning GIT
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Microsoft's Pronunciation Assessment.
+- 💞️ I’m looking to collaborate on CommunityToolkit.Maui and in particular on SpeechToText...
 - 📫 How to reach me: Gerhard.Mauerberger@t-online.de
 
 <!---
